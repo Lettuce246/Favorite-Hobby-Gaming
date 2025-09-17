@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+body {
+    background-color: grey;
+    color: cyan;
+    margin-right: 180px;
+    margin-left: 180px;
+    font-size: 1.5em;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+    margin-bottom: 20px;
+}
+
+aside {
+    float: right;
+}
+
+hr {
+    color: cyan;
+}
+
+#articletext {
+    margin-right: 550px
+}
